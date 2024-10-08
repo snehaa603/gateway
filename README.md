@@ -6,7 +6,7 @@
 
   <h2 align="center">Gateway - Restaurant Website</h2>
 
-gateway is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+Gateway is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 <a href="https://snehaa603.github.io/gateway/"><strong>➥ Live Demo</strong></a>
 
